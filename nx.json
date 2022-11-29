@@ -24,5 +24,8 @@
       "inputs": ["noMarkDown"]
     }
   },
-  "defaultBase": "master"
+  "defaultBase": "master",
+  "affected": {
+    "defaultBase": "master"
+  }
 }
