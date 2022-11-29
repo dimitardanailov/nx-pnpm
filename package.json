@@ -3,5 +3,8 @@
     "private": true,
     "scripts": {},
     "author": "Dimitar Danailov",
-    "license": "MIT"
+    "license": "MIT",
+    "devDependencies": {
+        "nx": "^15.2.1"
+    }
 }
