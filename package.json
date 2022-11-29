@@ -1,10 +1,11 @@
 {
-    "name": "nx-pnpm",
-    "private": true,
-    "scripts": {},
-    "author": "Dimitar Danailov",
-    "license": "MIT",
-    "devDependencies": {
-        "nx": "^15.2.1"
-    }
+  "name": "nx-pnpm",
+  "private": true,
+  "scripts": {},
+  "author": "Dimitar Danailov",
+  "license": "MIT",
+  "devDependencies": {
+    "nx": "15.2.1",
+    "@nrwl/nx-cloud": "latest"
+  }
 }
